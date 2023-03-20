@@ -1,0 +1,43 @@
+header{
+    font-family: tahoma;
+    font-style: oblique;
+    font-weight: 100;
+    text-align: center;
+    align-content: center;
+}
+body{
+     background-color: rgb(4, 35, 63);
+ 
+}
+
+label , input{
+    align-content: center;
+    margin: 50px;
+    padding: 0%;
+color: azur;
+}
+ img{
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 50%;
+    height: auto;
+  
+ }
+ #result {
+    font-size: larger;
+    font-weight: 70px ;
+    font-style: normal;
+    font-family: verdana;
+    text-align: center;
+    align-content: center;
+border: 3px solid black;
+ }
+ 
+ #button{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+ }
